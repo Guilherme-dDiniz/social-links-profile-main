@@ -1,0 +1,119 @@
+@media(max-width:400px) {
+    /* Organizando o cartão de infomações */
+    .card {
+        width: 300px;
+    }
+
+    /* Organizando as informações dentro do cartão */
+/* Imagem */
+    .card img {
+        width: 80px;
+        height: 80px;
+    }
+
+    /* informações sobre a pessoa */
+    /* Nome */
+    .card .informacoes .nome {
+        font-size: 20px;
+    }
+
+    /* Localização */
+    .card .informacoes .localizacao {
+        font-size: 12px;
+    }
+
+    /* Profissão */
+    .card .informacoes .profissao {
+        font-size: 12px;
+    }
+
+    /* Links das redes sociais */
+.navegacao ul {
+    width: 240px;
+    }
+
+    .navegacao ul li a{
+        font-size: 12px;
+        width: 240px;
+    }
+}
+
+@media(max-width:320px){
+    /* Organizando o cartão de infomações */
+    .card {
+        width: 260px;
+    }
+
+    /* Organizando as informações dentro do cartão */
+/* Imagem */
+    .card img {
+        width: 70px;
+        height: 70px;
+    }
+
+    /* informações sobre a pessoa */
+    /* Nome */
+    .card .informacoes .nome {
+        font-size: 19px;
+    }
+
+    /* Localização */
+    .card .informacoes .localizacao {
+        font-size: 11px;
+    }
+
+    /* Profissão */
+    .card .informacoes .profissao {
+        font-size: 10px;
+    }
+
+    /* Links das redes sociais */
+.navegacao ul {
+    width: 200px;
+    }
+
+    .navegacao ul li a{
+        font-size: 10px;
+        width: 200px;
+    }
+}
+
+@media(max-width:270px){
+    /* Organizando o cartão de infomações */
+    .card {
+        width: 200px;
+    }
+
+    /* Organizando as informações dentro do cartão */
+/* Imagem */
+    .card img {
+        width: 60px;
+        height: 60px;
+    }
+
+    /* informações sobre a pessoa */
+    /* Nome */
+    .card .informacoes .nome {
+        font-size: 16px;
+    }
+
+    /* Localização */
+    .card .informacoes .localizacao {
+        font-size: 10px;
+    }
+
+    /* Profissão */
+    .card .informacoes .profissao {
+        font-size: 9px;
+    }
+
+    /* Links das redes sociais */
+.navegacao ul {
+    width: 160px;
+    }
+
+    .navegacao ul li a{
+        font-size: 9px;
+        width: 160px;
+    }
+}
