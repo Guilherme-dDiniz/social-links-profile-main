@@ -29,7 +29,7 @@ Os desafios do Frontend Mentor ajudam a aprimorar habilidades de codificação a
 
 ### Links
 
-- URL do site publicado: [Clique aqui](https://guilherme-ddiniz.github.io/qr-code-main/)
+- URL do site publicado: [Clique aqui](https://guilherme-ddiniz.github.io/social-links-profile-main/)
 
 ---
 
